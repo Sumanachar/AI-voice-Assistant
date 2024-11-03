@@ -1,5 +1,7 @@
- CHAT GPT BASE AI VOICE ASSISTANT
- Installation
+ CHAT GPT BASE AI VOICE ASSISTAN
+ 
+  Installation
+  
 To install the required libraries, run the following commands in your terminal:
 
           sudo apt-get install portaudio19-dev
